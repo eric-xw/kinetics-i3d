@@ -27,6 +27,9 @@ Disclaimer: This is not an official Google product.
 
 First follow the instructions for [installing
 Sonnet](https://github.com/deepmind/sonnet).
+```
+pip install -U dm-sonnet==1.23
+```
 
 Then, clone this repository using
 
